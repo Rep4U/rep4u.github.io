@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on REP4U | Real Estate for You</title>
+    <link>https://www.rep4u.ca/categories/</link>
+    <description>Recent content in Categories on REP4U | Real Estate for You</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © REP4U.ca 2021</copyright><atom:link href="https://www.rep4u.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
